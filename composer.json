@@ -1,5 +1,5 @@
 {
-    "name": "aw/db",
+    "name": "aiwen/db",
     "autoload": {
         "psr-4": {
             "Aw\\Db\\": "src/Aw/Db"
