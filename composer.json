@@ -1,5 +1,6 @@
 {
     "name": "aiwen/db",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Aw\\Db\\": "src/Aw/Db"
