@@ -1,0 +1,15 @@
+{
+    "name": "aw/db",
+    "autoload": {
+        "psr-4": {
+            "Aw\\Db\\": "src/Aw/Db"
+        }
+    },
+    "authors": [
+        {
+            "name": "吕向杰",
+            "email": "lvxiangjie@yangshipin.cn"
+        }
+    ],
+    "require": {}
+}
